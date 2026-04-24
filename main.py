@@ -1,2 +1,2 @@
-print("Welcome to atm-simulation-python")
-print("This is the main program file.")
+print("Project: atm-simulation-python")
+print("Main program executed successfully.")
